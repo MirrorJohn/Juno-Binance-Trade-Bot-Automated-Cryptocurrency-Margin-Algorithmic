@@ -1,0 +1,2 @@
+C:\Users\LW2\Desktop\BinanceTrade1\Binance-Trade-Bot\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+C:\Users\LW2\Desktop\BinanceTrade1\Binance-Trade-Bot\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
